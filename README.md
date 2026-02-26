@@ -1,10 +1,3 @@
-# Final-Project-Report
-
-欠缺功能:
-1. change value need to support rational arithmetic operations (OK, +-*/ no space)
-2. collaborate with antoher user (OK)
-3. 權限(是否需要增加密碼功能) (感覺不用)
-4. 錯誤輸入的反饋或提醒（現在看起來挺完整的，我看每個 branch 都有訊息）
 
 新增：
 permission 與 collaborate 的開關（dynamically），由作業說明中 `Furthermore, please make the requirements 5. & 6. can be easily switched on/off.` 要求。
